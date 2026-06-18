@@ -1,4 +1,3 @@
-### About Me
 ### Hi there 👋, I'm Aman Kumar<br><br>🎓 Computer Science Engineering Student<br><br>💻 Passionate about Software Development, Cybersecurity, Artificial Intelligence, and Cloud Technologies.<br><br>🚀 Currently learning:<br><br>* Java & Object-Oriented Programming<br>* Python Development<br>* Cybersecurity Fundamentals<br>* AI & Machine Learning<br>* Git & GitHub<br><br><br>🌱 I enjoy building practical projects, exploring new technologies, and continuously improving my problem-solving skills.<br><br>📫 Connect with me through GitHub and follow my journey as I learn, build, and grow in technology.<br><br>"Learning, Building, Improving."<br>
 
 
